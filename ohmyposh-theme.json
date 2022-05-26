@@ -231,14 +231,6 @@
           "type": "exit"
         },
         {
-          "background": "#9ec3f0",
-          "foreground": "#000000",
-          "powerline_symbol": "\ue0b0",
-          "style": "powerline",
-          "template": " \ufd03 {{ .Name }}",
-          "type": "az"
-        },
-        {
           "type": "dotnet",
           "style": "powerline",
           "powerline_symbol": "\uE0B0",
