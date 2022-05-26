@@ -272,7 +272,7 @@
           "foreground": "#000000",
           "background": "#9ec3f0",
           "template": " \uFD03 {{ .Name }}"
-        }
+        },
         {
           "type": "git",
           "style": "powerline",
